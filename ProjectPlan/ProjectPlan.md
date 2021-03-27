@@ -1,19 +1,19 @@
 # Project Plan:
 
 ## Team Members:
-- Conall Hunt
-- Chloe Dunne
-- Paul Langtry
-- Ronan Macken
+- Conall Hunt 
+- Chloe Dunne 
+- Paul Langtry 
+- Ronan Macken 
 
 ## Topics:
-- Task Estimation
-- Coding Standards
-- Code Reviews
-- Plan & Style Guide
+- Task Estimation (Conall Hunt)
+- Coding Standards (Paul Langtry)
+- Code Reviews (Chloe Dunne)
+- Plan & Style Guide (Ronan Macken)
 
 ## Project Steps:
-1. Connal creates the repository and both the develop and master branches.
+1. Conall creates the repository and both the develop and master branches.
 2. The rest of the team then clones this repository to their local machines.
 3. Each team member will then checkout the develop branch.
 4. Each team member will then create a feature branch off of develop relevant to their topic.
