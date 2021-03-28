@@ -8,8 +8,8 @@
 
 ## Topics:
 - Task Estimation (Conall Hunt)
-- Coding Standards (Paul Langtry)
-- Code Reviews (Chloe Dunne)
+- Coding Standards (Chloe Dunne)
+- Code Reviews (Paul Langtry)
 - Plan & Style Guide (Ronan Macken)
 
 ## Project Steps:
