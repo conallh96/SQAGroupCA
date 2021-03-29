@@ -1,3 +1,5 @@
+# Task Estimation
+
 ## Introduction 
 When operating within a SCRUM framework, consitent task estimation is required in order to be able to plan accurately and reliable from a shared group viewpoint.
 Task Estimation takes place during the Sprint Planning Meeting and focusses on the time and resources required to complete the tasks in the sprint and how to accurately measure these tasks.
@@ -9,14 +11,19 @@ Story points are the most popular method of task estimation within the SCRUM fra
 ![alt text](https://d2o2utebsixu4k.cloudfront.net/media/images/1535700232368-image5.png "An example of Story Points as a method of Task Estimation for building projects.")
 
 ## Methods of Estimation
-Once an appropriate unit for assigning Story Points to tasks has been assigned, there are a number of ways a team can agree on how many points should be assigned to a task.
 
-### Planning Poker
-When estimating the effort and resources required to complete a task, the team are all handed cards showing the varying values of story points tasks can be assigned. Each member of the team is asked to reveal the amount of points they believe the task should be assigned at the same time. This will result in a range values throughout the group and a discussion as to why members believe the task will take as long as they have stated. In the end, the team can come to a compromised consensus as to how many Story Points to assign the task.
+### The Bucket System
+The Bucket System is a very quick process for task estimation in which the SCRUM Master will present the first task of the sprint and the team will agree to place it in a "bucket" representing an amount of Story Points ranging from the smallest to largest. The master will then go through all remaining tasks of the sprint and compare whether they are on the larger or smaller end of the scale in relation to the other tasks and place them in relevant "buckets". This allows teams to quickly assign Story Points through comparison of the tasks at hand or through referring to past sprints.
 
-![alt text](https://www.mountaingoatsoftware.com/uploads/blog/poker-discussion.png "Planning Poker in progress.")
+![alt text](https://www.netsolutions.com/insights/wp-content/uploads/2020/07/Estimatng-the-Agile-Project-Using-The-Bucket-Theory.jpg "An example of The Bucket System in use.")
+
 
 ### T-Shirt Sizing
 When getting to grips with Agile methodology or working with relatively simple tasks, t-shirt sizing can be a conveient method of estimating the effort needed to complete a task. Sizes such as extra small up to extra extra large are assigned to task in accordance to their complexity and effort demanded, allowing the team to clearly identify the largest and most pressing tasks in a sprint. This simple method is an excellent way to introduce your team to analysing tasks and estimating their effort and resources involved. 
 
 ![alt text](https://csharpcorner.azureedge.net/article/agile-story-point-estimation-techniques2/Images/User_Story-TshirtSize.JPG "T-Shirt Sizing.")
+
+### Planning Poker
+When estimating the effort and resources required to complete a task, the team are all handed cards showing the varying values of story points tasks can be assigned. Each member of the team is asked to reveal the amount of points they believe the task should be assigned at the same time. This will result in a range values throughout the group and a discussion as to why members believe the task will take as long as they have stated. In the end, the team can come to a compromised consensus as to how many Story Points to assign the task.
+
+![alt text](https://www.mountaingoatsoftware.com/uploads/blog/poker-discussion.png "Planning Poker in progress.")
