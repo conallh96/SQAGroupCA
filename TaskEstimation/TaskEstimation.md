@@ -15,3 +15,8 @@ Once an appropriate unit for assigning Story Points to tasks has been assigned, 
 When estimating the effort and resources required to complete a task, the team are all handed cards showing the varying values of story points tasks can be assigned. Each member of the team is asked to reveal the amount of points they believe the task should be assigned at the same time. This will result in a range values throughout the group and a discussion as to why members believe the task will take as long as they have stated. In the end, the team can come to a compromised consensus as to how many Story Points to assign the task.
 
 ![alt text](https://www.mountaingoatsoftware.com/uploads/blog/poker-discussion.png "Planning Poker in progress.")
+
+### T-Shirt Sizing
+When getting to grips with Agile methodology or working with relatively simple tasks, t-shirt sizing can be a conveient method of estimating the effort needed to complete a task. Sizes such as extra small up to extra extra large are assigned to task in accordance to their complexity and effort demanded, allowing the team to clearly identify the largest and most pressing tasks in a sprint. This simple method is an excellent way to introduce your team to analysing tasks and estimating their effort and resources involved. 
+
+![alt text](https://csharpcorner.azureedge.net/article/agile-story-point-estimation-techniques2/Images/User_Story-TshirtSize.JPG "T-Shirt Sizing.")
