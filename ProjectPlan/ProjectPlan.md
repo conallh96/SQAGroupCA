@@ -8,8 +8,8 @@
 
 ## Topics:
 - Task Estimation (Conall Hunt)
-- Coding Standards (Paul Langtry)
-- Code Reviews (Chloe Dunne)
+- Coding Standards (Chloe Dunne)
+- Code Reviews (Paul Langtry)
 - Plan & Style Guide (Ronan Macken)
 
 ## Project Steps:
@@ -19,7 +19,18 @@
 4. Each team member will then create a feature branch off of develop relevant to their topic.
 5. The team will then make commits to their feature branches and push their changes.
 6. After pushing changes each member will make pull request for said changes and assign the rest of the team as reviewers.
-7. The pull request must be reviewed and approved by everyone before merging into the develop branch.
+7. The pull request must be reviewed and approved by at least one other team member before merging into the develop branch.
 8. Once the handbook is complete the team will review the document and process
  and then create a release branch which will be merged into master.
 
+## Style Guide + File Structure:
+- Each page header should be H1.
+- Other headings should be H2.
+- Bullet points should be used for further sub-headings.
+- Each page should contain links to the Home page and other topics.
+- All content should be left aligned for consistency.
+- Links to references should available at the end of each page.
+- Each topic should be contained in its own folder.
+- Images should be placed in the images folder.
+
+* [Home Page](../README.MD)
