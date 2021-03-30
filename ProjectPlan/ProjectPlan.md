@@ -23,11 +23,14 @@
 8. Once the handbook is complete the team will review the document and process
  and then create a release branch which will be merged into master.
 
-## Style Guide:
+## Style Guide + File Structure:
 - Each page header should be H1.
-- Other titles should be H2.
-- Bullet points should be used for further sub titles.
+- Other headings should be H2.
+- Bullet points should be used for further sub-headings.
 - Each page should contain links to the Home page and other topics.
 - All content should be left aligned for consistency.
+- Links to references should available at the end of each page.
+- Each topic should be contained in its own folder.
+- Images should be placed in the images folder.
 
 
