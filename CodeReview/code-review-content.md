@@ -25,16 +25,16 @@ You might find yourself asking what makes a good checklist and what separates th
 
 ## Common Code Review Approaches ##
 
-1. ### The Email Thread ### 
+### The Email Thread ### 
 As soon as the code is ready for review, it is sent to colleageus via **email**. Although more flexible for the reviewers, an email thread full of different opinions can get **complex and confusing** for the original developer.
 
-2. **Pair Programming**
+### Pair Programming ###
 This approach puts the developers side by side, checking eachothers work as they go. It's an excellent way for **senior developers to mentor junior developers**. This method can be hard on resources requiring more time and personnel compared to other methods.
 
-3. **Over The Shoulder**
+### Over The Shoulder ###
 This method involves a colleague sitting down at your workstation and **reviewing your code as you explain why you wrote it**. This is certainly a lightweight approach but can be **too light** in terms of tracking work and appropriate documentation.
 
-4. **Tool Assisted**
+### Tool Assisted ###
 Considered the **best method** for reviewing code as it uses software integrated into IDE and SCM development frameworks. This way everything can be tracked automatically, less resources required and no meetings needed.
 
 ## References ## 
