@@ -32,4 +32,5 @@ When estimating the effort and resources required to complete a task, the team a
 ## References
 * Berteig, M. (2016, August 14). Agile estimation with the bucket system. Retrieved March 29, 2021, from http://www.agileadvice.com/2013/07/30/referenceinformation/agile-estimation-with-the-bucket-system/
 * Dalmijn, M. (2020, August 12). 12 common mistakes made when Using story points. Retrieved March 29, 2021, from https://medium.com/serious-scrum/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7
-*Sinha, D., Casel, N., Tranter, L., &amp; Tipnis, P. (2018, August 31). What are the top 5 Scrum Estimation Techniques? Retrieved March 29, 2021, from https://www.knowledgehut.com/blog/agile/top-5-scrum-estimation-techniques-find-your-best-fit
+* Sinha, D., Casel, N., Tranter, L., &amp; Tipnis, P. (2018, August 31). What are the top 5 Scrum Estimation Techniques? Retrieved March 29, 2021, from https://www.knowledgehut.com/blog/agile/top-5-scrum-estimation-techniques-find-your-best-fit
+* 15, J. (2020, February 20). Story point estimation - getting started with affinity estimation. Retrieved March 30, 2021, from https://agilevelocity.com/blogget-started-story-points-via-affinity-estimation-cheat-sheet/
