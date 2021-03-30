@@ -21,11 +21,11 @@ You might find yourself asking what makes a good checklist and what separates th
 
 1. A **good** checklist helps the reviewers task move **much quicker** and review in a more **reliable** and **consistent** way by reducing the overall amount of information that the reviewer needs to remember in order to correctly anaylse and **compare the findings** with the associated checklist. It focuses on **top-priority** issues and doesn’t exert the reviewer with too many tasks.
 
-2. A **bad** checklist encourages **nitpicking** and creates an unhealthy relationship between colleagues which may be percieved in a condescending manner.It also can ignore the importance of **velocity**, and unintentionally **hinder the progress of the team**. If the checklist is**cumbersome**, **redundant** with other processes, or not **consistently applicable and relevant**, it can become a great **waste** of time and resources and authors and reviewers will tend to completely ignore without guilt or hesitation, feeding into an unhealthy atmosphere.
+2. A **bad** checklist encourages **nitpicking** and creates an unhealthy relationship between colleagues which may be percieved in a condescending manner. It also can ignore the importance of **velocity**, and unintentionally **hinder the progress of the team**. If the checklist is **cumbersome**, **redundant** with other processes, or not **consistently applicable and relevant**, it can become a great **waste** of time, resources, authors and reviewers will tend to completely ignore without guilt or hesitation, feeding into an unhealthy atmosphere.
 
 ## Common Code Review Approaches ##
 
-1. **The Email Thread**
+1. ### The Email Thread ### 
 As soon as the code is ready for review, it is sent to colleageus via **email**. Although more flexible for the reviewers, an email thread full of different opinions can get **complex and confusing** for the original developer.
 
 2. **Pair Programming**
