@@ -23,3 +23,44 @@ It has been observed that software developers spend a large amount of their time
 ### Easier Maintenance
 
 Coding standard gives a uniform appearance to the codes written by different developers. If the code is consistent, it improves readability and can be easily maintained. This is because anyone can understand it and make modifications at any point in time.
+
+### Reduces Complexity
+
+The higher the complexity of a code, the more vulnerable it is to errors.
+If coding standards are maintained properly, then the code increases readability and understandability, thus it reduces the complexity of the code.
+
+### Cost Saving
+
+Consistent code leads to a clear view which in turn can give the developers an opportunity to reuse the code whenever required. This can drastically reduces the cost and development efforts.
+
+### Bug Rectification
+
+A consistent source code makes it easy to locate and correct bugs in the software.
+
+## Best Coding Standards
+
+It is crucial for a developers’ team to have proper coding conventions and standards to guide them during the development. The best coding standards are short, simple and concise rules. They should be black and white instead of vague suggestions or recommendations. Some common aspects of coding standard are below:
+
+### Naming Conventions
+
+The naming convention is how your packages, classes methods, variables, etc. should be named (eg. camelCase, PascalCase or snake_case). This should be consistent throughout the code as it will improve readability.
+
+### Formatting and Indentation
+
+There are different indentation styles available to be followed so it is essential to maintain a consistent indentation style throughout your code.
+
+### Commenting and Documenting
+
+Your code should be well documented. Commenting your code and providing proper documentation makes it easy for the reviewer to better understand the codes methods and declarations.
+
+### Testing
+
+Teams should have a specific approach and tools that should be used to test the codes. This way you know what your method does, what it takes and what it should return. You will know when it should work or when it should fail.
+
+
+###	Avoid using an identifier for multiple purposes
+Each variable should have a descriptive and meaningful name indicating the reason behind using it. This is not possible if an identifier is used for multiple purposes and thus it can lead to confusion.
+
+###	Length of Functions 
+As functions get longer they are more difficult to understand. Functions should be small enough to carry out small work and lengthy functions should be broken into small ones for completing small tasks.
+
