@@ -23,7 +23,22 @@ You might find yourself asking what makes a good checklist and what separates th
 
 2. A bad checklist encourages nitpicking and creates an unhealthy relationship between colleagues which may be percieved in a condescending manner.It also can ignore the importance of velocity, and unintentionally hinder the progress of the team. If the checklist is cumbersome, redundant with other processes, or not consistently applicable and relevant, it can become a great waste of time and resources and authors and reviewers will tend to completely ignore without guilt or hesitation, feeding into an unhealthy atmosphere.
 
-![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--uM_i7h-C--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/t9qsmq21y4sz5462wpjf.png "An example of that need to be asked.")
+## Common Code Review Approaches ##
+
+1. **The Email Thread**
+As soon as the code is ready for review, it is sent to colleageus via email. Although more flexible for the reviewers, an email thread full of different opinions can get complex and confusing for the original developer.
+![alt text](https://static1.smartbear.co/smartbear/media/images/solutions/email-inbox.png "An example of that need to be asked.")
+
+2. **Pair Programming**
+This approach puts the developers side by side, checking eachothers work as they go. It's an excellent way for senior developers to mentor junior developers. This method can be hard on resources requiring more time and personnel compared to other methods.
+
+3. **Over The Shoulder**
+This method involves a colleague sitting down at your workstation and reviewing your code as you explain why you wrote it. This is certainly a lightweight approach but can be too light in terms of tracking work and appropriate documentation.
+
+4. **Tool Assisted**
+Considered the best method for reviewing code as it uses software integrated into IDE and SCM development frameworks. This way everything can be tracked automatically, less resources required and no meetings needed.
+
+
 
 
 
