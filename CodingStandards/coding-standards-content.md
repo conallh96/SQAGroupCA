@@ -11,6 +11,8 @@ Coding standards (also known as coding conventions) are a set of rules and guide
 * Maintainable – *easy to maintain as it grows*
 * Portable – *works the same in every environment*
 
+![Coding Conventions](http://philippe.bourgau.net/imgs/2020-03-16-3-good-and-bad-ways-to-write-team-coding-standards-and-conventions/bad-communication.jpg)
+
 Coding standards can sometimes have a "stigma" around them in which they sometimes cannot leave room for developers to exercise their own creativity.
 Coding style is very personal and varies from individual to individual. Effective coding standards should focus on techniques that highlight problems and make bugs stand-out rather than an individuals personal preferences. Coding standards, when used in the right manner, offer many benefits.
 
@@ -64,3 +66,4 @@ Each variable should have a descriptive and meaningful name indicating the reaso
 ###	Length of Functions 
 As functions get longer they are more difficult to understand. Functions should be small enough to carry out small work and lengthy functions should be broken into small ones for completing small tasks.
 
+![Coding Standards](https://miro.medium.com/max/1258/1*v6NLWMqZsOCpuFbbA919Hg.jpeg)
