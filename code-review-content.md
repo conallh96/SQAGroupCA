@@ -1,6 +1,7 @@
 # Code Reviews #
 ## Introduction ## 
-Code review is a systematic examination of source code often from new features added by a dev team. The review is usually conducted by peers within the organisation and is intended to find and fix misakes often overlooked in the initial development stage, improving both the overall quality of software and the developers skills.
+
+**Code review** is a systematic examination of source code often from new features added by a dev team. The review is usually conducted by **peers** within the organisation and is intended to **find and fix** mistakes often overlooked in the initial development stage, improving both the overall **quality of software** and the **developers skills**.
 
 ## Checklist ##
 While reviewing code made by you or your colleagues there are generally a questions you can ask yourself about the code.
