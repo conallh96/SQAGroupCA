@@ -26,8 +26,7 @@ You might find yourself asking what makes a good checklist and what separates th
 ## Common Code Review Approaches ##
 
 1. **The Email Thread**
-As soon as the code is ready for review, it is sent to colleageus via email. Although more flexible for the reviewers, an email thread full of different opinions can get complex and confusing for the original developer.
-![alt text](https://static1.smartbear.co/smartbear/media/images/solutions/email-inbox.png "An example of that need to be asked.")
+As soon as the code is ready for review, it is sent to colleageus via email. Although more flexible for the reviewers, an email thread full of different opinions can get complex and confusing for the original developer.#
 
 2. **Pair Programming**
 This approach puts the developers side by side, checking eachothers work as they go. It's an excellent way for senior developers to mentor junior developers. This method can be hard on resources requiring more time and personnel compared to other methods.
@@ -38,8 +37,12 @@ This method involves a colleague sitting down at your workstation and reviewing 
 4. **Tool Assisted**
 Considered the best method for reviewing code as it uses software integrated into IDE and SCM development frameworks. This way everything can be tracked automatically, less resources required and no meetings needed.
 
+## References ## 
+* Gutha, R. (2015, August 31). Code Review checklist, to perform effective code reviews. Retrieved March 29, 2021, from https://www.evoketechnologies.com/blog/code-review-checklist-perform-effective-code-reviews/
 
+* Avery, L. (2019, November 11). What belongs in an effective code review checklist. Retrieved March 30, 2021, from https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/
 
+* Smartbear. (2020, September 15). Common code review approaches. Retrieved March 30, 2021, from https://smartbear.com/learn/code-review/what-is-code-review/
 
 
 
