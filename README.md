@@ -4,6 +4,6 @@
  
 
 ## Topics Covered:
-[Task Estimation in Scrum](TaskEstimation.md)
-[Coding Standards](coding-standards-content.md)
-[Code Reviews](code-review-content.md)
+- [Task Estimation in Scrum](TaskEstimation/TaskEstimation.md)
+- [Coding Standards](coding-standards-content.md)
+- [Code Reviews](code-review-content.md)
