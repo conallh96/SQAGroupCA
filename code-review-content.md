@@ -1,4 +1,4 @@
-<h2>Code Reviews</h2>
+<h1>Code Reviews</h1>
 <h2>Introduction</h2>
 **Code review** is a systematic examination of source code often from new features added by a **dev team**. The review is usually conducted by peers within the organisation and is intended to find and fix misakes often overlooked in the initial development stage, improving both the overall **quality of software** and the **developers skills**.
 
