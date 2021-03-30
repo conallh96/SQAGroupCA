@@ -67,3 +67,15 @@ Each variable should have a descriptive and meaningful name indicating the reaso
 As functions get longer they are more difficult to understand. Functions should be small enough to carry out small work and lengthy functions should be broken into small ones for completing small tasks.
 
 ![Coding Standards](https://miro.medium.com/max/1258/1*v6NLWMqZsOCpuFbbA919Hg.jpeg)
+
+## References
+
+* Mansoor, U., 2016. Effective Coding Standards. [online] CodeAhoy. Available at: <https://codeahoy.com/2016/05/22/effective-coding-standards/>
+
+* Webguruz. 2017. The Significance of Coding Standards - Webguruz. [online] Available at: <https://webguruz.in/the-significance-of-coding-standards-2/> 
+
+* Multidots. 2020. Importance of Code Quality and Coding Standard in Software Development. [online] Available at: <https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/#:~:text=Coding%20standards%20help%20in%20the,and%20thereby%20reduce%20the%20errors.&text=If%20the%20coding%20standards%20are%20followed%2C%20the%20code%20is%20consistent,at%20any%20point%20in%20time>
+
+* GeeksforGeeks. 2019. Coding Standards and Guidelines - GeeksforGeeks. [online] Available at: <https://www.geeksforgeeks.org/coding-standards-and-guidelines/>
+
+* Perforce.com. n.d. Intro to Coding Standards — Coding Rules and Guidelines | Perforce. [online] Available at: <https://www.perforce.com/resources/qac/coding-standards>
