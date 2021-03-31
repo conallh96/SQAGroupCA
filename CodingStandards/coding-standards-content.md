@@ -47,8 +47,8 @@ A consistent source code makes it easy to locate and correct bugs in the softwar
 ![Coding Standards](https://miro.medium.com/max/1258/1*v6NLWMqZsOCpuFbbA919Hg.jpeg)
 
 ### View other topics: 
-* [Code Reviews](CodeReview/code-review-content.md)
-* [Task Estimations](TaskEstimation/TasTaskEstimation.md)
+* [Code Reviews](../../CodeReview/code-review-content.md)
+* [Task Estimations](../../TaskEstimation/TasTaskEstimation.md)
 
 ## References
 - [Mansoor, U., 2016. Effective Coding Standards](https://codeahoy.com/2016/05/22/effective-coding-standards)

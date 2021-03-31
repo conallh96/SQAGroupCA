@@ -16,8 +16,8 @@ When coming up time estimates it is essential both consult more experienced deve
 You can read more about Code Reviews [here](../CodeReview/).
 
 ### View other topics: 
-* [Code Reviews](CodeReview/code-review-content.md)
-* [Task Estimations](TaskEstimation/TasTaskEstimation.md)
+* [Code Reviews](../../CodeReview/code-review-content.md)
+* [Task Estimations](../../TaskEstimation/TaskEstimation.md)
 
 
 ## References
