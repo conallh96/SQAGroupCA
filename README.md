@@ -14,13 +14,14 @@ i.e, how fit for purpose is the software according to its Software requirements 
 - Maintainability (comprehensibility, changeability, testability, and scalability of software)
 
 ## Software Quality Management System
-This the set of principal methods used by a team or organization to ensure that the software is of quality.
-The purpose of this handbook is give you and your team a quick guide to best and worst practices for Software Quality Management Systems and are covered ny the 3 topics listed below.
+This is the set of principal methods used by a team or organization to ensure that the software is of quality.  
+The purpose of this handbook is give you and your team a quick guide to best and worst practices for Software Quality Management Systems.  
+This will be covered under the topics listed below.
 
 ## Topics Covered:
 - [Task Estimation in Scrum](TaskEstimation/TaskEstimation.md)
-- [Coding Standards](coding-standards-content.md)
-- [Code Reviews](code-review-content.md)
+- [Coding Standards](CodingStandards/coding-standards-content.md)
+- [Code Reviews](CodeReviews/code-review-content.md)
 
 
 ## References:
