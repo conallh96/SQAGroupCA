@@ -9,7 +9,7 @@ For example, a developer may implement a new feature available in the Java libra
 When giving negative feedback, it is important to present it in a fair and contructive way in order to avoid overhelming team members and harming their confidence. Some reviewers tend to spend the reviewing process flagging every instance of every error, leaving copious amounts of comments criticizing the developer's work. This creates a tense environment in within the team which can easily be avoided by taking a more constructive approach to reviewing the piece of code. If there is an error in the developer's work, it is likely it will be repeated a number o fti mes as they thougt it was an appropriate way to complete the task. A clear and concise explaination of the error and how to solve it in the place of the first instance will allow the developer to undertsand and learn from the issue rather than bog them down with criticism. This will enable the code reviewing process to create a  positive environment of education and improvement rather than one of tension and negativity.
 
 ### View other Topics
-* [Code Reviews](CodeReview/code-review-content.md)
+* [Code Reviews](/CodeReview/code-review-content.md)
 * [Home Page](../README.MD)
 
 ## References
