@@ -10,7 +10,7 @@ When giving negative feedback, it is important to present it in a fair and contr
 
 ### View Other Topics ###
 * [Code Review](/CodeReview/code-review-content.md)
-* [Home Page](../README.MD))
+* [Home Page](../README.md))
 
 ## References
 
