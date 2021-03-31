@@ -13,7 +13,7 @@ Technical practices like test-driven development and refactoring are often the f
 
 ### View other Topics
 * [Methods of Task Estimation](/TaskEstimation/TaskEstimation.md)
-* [Home Page](../README.MD)
+* [Home Page](README.MD)
 
 ## References
 Tranter, L. (2018, May 15). Problems with story points. Retrieved March 30, 2021, from https://www.extremeuncertainty.com/problems-with-story-point-estimates/

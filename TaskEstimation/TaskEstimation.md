@@ -30,7 +30,7 @@ When estimating the effort and resources required to complete a task, the team a
 
 ### View other Topics
 * [Bad Practices in Task Estimation](/TaskEstimation/BadPractices.md)
-* [Home Page](../../README.MD)
+* [Home Page](README.MD)
 
 ## References
 * Berteig, M. (2016, August 14). Agile estimation with the bucket system. Retrieved March 29, 2021, from http://www.agileadvice.com/2013/07/30/referenceinformation/agile-estimation-with-the-bucket-system/
