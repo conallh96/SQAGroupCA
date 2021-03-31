@@ -13,9 +13,12 @@ can lead to inconsistencies of the readability throughout a project and issues s
 - ### Bad time management
 This becomes an issue when the length time to implement a feature has been underestimated this can lead to costly delays.  
 When coming up time estimates it is essential both consult more experienced developers on the project and to have regular code reviews to ensure the schedule is maintained or updated as needed.  
-You can read more about Code Reviews [here](../CodeReview/).
+You can read more about Code Reviews [here](../CodeReview/code-review-content.md)
 
 ### View other topics: 
+* [Home Page](../README.md)
+* [Coding Standards Home](coding-standards-content.md)
+* [Coding Standards Best Practices](CodingStandardsBestPractice.md)
 * [Code Reviews](../CodeReview/code-review-content.md)
 * [Task Estimations](../TaskEstimation/TaskEstimation.md)
 
