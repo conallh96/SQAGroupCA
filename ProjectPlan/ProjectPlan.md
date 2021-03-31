@@ -37,7 +37,7 @@
 ## Retrospective 
 
 - ### Project Setup
- When we originally set up the project repository on GitHub, we all forked from a main repository created by Ronan and proceeded to clone our own repositories onto our systems.  
+- When we originally set up the project repository on GitHub, we all forked from a main repository created by Ronan and proceeded to clone our own repositories onto our systems.  
 Upon further consideration, we realized we should all have cloned from the same repository,  
 Conall then set up a new repository and the other members cloned.  
 This was a minor set back in the early stages but luckily we discovered our errors early on.  
