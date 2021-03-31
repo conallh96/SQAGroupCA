@@ -22,3 +22,8 @@ The purpose of this handbook is give you and your team a quick guide to best and
 - [Coding Standards](coding-standards-content.md)
 - [Code Reviews](code-review-content.md)
 
+
+## References:
+- [Software Quality](https://www.javatpoint.com/software-engineering-software-quality)
+- [Quality Assurance, Quality Control and Testing — the Basics of Software Quality Management](https://www.altexsoft.com/whitepapers/quality-assurance-quality-control-and-testing-the-basics-of-software-quality-management/)
+- [What is software quality?](https://www.testbytes.net/blog/what-is-software-quality/)
