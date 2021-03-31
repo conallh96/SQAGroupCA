@@ -28,9 +28,13 @@ When estimating the effort and resources required to complete a task, the team a
 
 ![alt text](../Images/taskEstimationImage4.webp "Planning Poker in progress.")
 
-- ### View other Topics
-* [Bad Practices in Task Estimation](/TaskEstimation/BadPractices.md)
+- ### View other topics: 
 * [Home Page](../README.md)
+* [Bad Practices in Task Estimation](/TaskEstimation/BadPractices.md)
+* [Coding Standards](../CodingStandards/coding-standards-content.md)
+* [Code Reviews](../CodeReview/code-review-content.md)
+
+
 
 ## References
 * [Berteig, M. (2016, August 14). Agile estimation with the bucket system](http://www.agileadvice.com/2013/07/30/referenceinformation/agile-estimation-with-the-bucket-system/)
