@@ -11,7 +11,7 @@ Coding standards (also known as coding conventions) are a set of rules and guide
 * Maintainable – *easy to maintain as it grows*
 * Portable – *works the same in every environment*
 
-![Coding Conventions](http://philippe.bourgau.net/imgs/2020-03-16-3-good-and-bad-ways-to-write-team-coding-standards-and-conventions/bad-communication.jpg)
+![Coding Conventions](../Images/codingStandardsImage1.jpeg)
 
 Coding standards can sometimes have a "stigma" around them in which they sometimes cannot leave room for developers to exercise their own creativity.
 Coding style is very personal and varies from individual to individual. Effective coding standards should focus on techniques that highlight problems and make bugs stand-out rather than an individuals personal preferences. Coding standards, when used in the right manner, offer many benefits.
@@ -39,18 +39,15 @@ Consistent code leads to a clear view which in turn can give the developers an o
 
 A consistent source code makes it easy to locate and correct bugs in the software.
 
+## Best Practice & Worst Practice 
+- ### [Coding Standards Best Practices](CodingStandardsBestPractice.md)
+- ### [Coding Standard Bad Practices](CodingStandardsBadPractice.md)
 
-## [Coding Standards Best Practices](CodingStandardsBestPractice.md)
-## [Coding Standard Bad Practices](CodingStandardsBadPractice.md)
 
+![Coding Standards](../Images/codingStandardsImage2.jpeg)
 
-![Coding Standards](https://miro.medium.com/max/1258/1*v6NLWMqZsOCpuFbbA919Hg.jpeg)
-
-### View other topics: 
-### View other topics: 
+- ### View other topics: 
 * [Home Page](../README.md)
-* [Coding Standards Best Practices](CodingStandardsBestPractice.md)
-* [Coding Standards Best Practices](CodingStandardsBadPractice.md)
 * [Code Reviews](../CodeReview/code-review-content.md)
 * [Task Estimations](../TaskEstimation/TaskEstimation.md)
 
