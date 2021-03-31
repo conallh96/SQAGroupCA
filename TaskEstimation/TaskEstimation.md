@@ -8,7 +8,7 @@ There are many practiced methods or task estimation in SCRUM including the follo
 ## Story Points
 Story points are the most popular method of task estimation within the SCRUM framework as they allow teams to measure tasks by the most relevant unit to their process as possible. To some teams a story point may be one hour, to others it may be one month, the main requirement being that this chosen unit is consistent throughout the team. The amount of effort required to complete a task can then be represented by a value that all members of the team, regardless of their skillset, can comprehend. With a consistent system in place, teams can use past estimations as references for future sprint planning.
 
-![alt text](https://d2o2utebsixu4k.cloudfront.net/media/images/1535700232368-image5.png "An example of Story Points as a method of Task Estimation for building projects.")
+![alt text](https://d2o2utebsixu4k.cloudfront.net/media/images/1535700232368-image5.png  "An example of Story Points as a method of Task Estimation for building projects." )
 
 ## Methods of Estimation
 
@@ -27,3 +27,13 @@ When getting to grips with Agile methodology or working with relatively simple t
 When estimating the effort and resources required to complete a task, the team are all handed cards showing the varying values of story points tasks can be assigned. Each member of the team is asked to reveal the amount of points they believe the task should be assigned at the same time. This will result in a range values throughout the group and a discussion as to why members believe the task will take as long as they have stated. In the end, the team can come to a compromised consensus as to how many Story Points to assign the task.
 
 ![alt text](https://www.mountaingoatsoftware.com/uploads/blog/poker-discussion.png "Planning Poker in progress.")
+
+### View other Topics
+* [Bad Practices in Task Estimation](/TaskEstimation/BadPractices.md)
+* [Home Page](../README.md)
+
+## References
+* Berteig, M. (2016, August 14). Agile estimation with the bucket system. Retrieved March 29, 2021, from http://www.agileadvice.com/2013/07/30/referenceinformation/agile-estimation-with-the-bucket-system/
+* Dalmijn, M. (2020, August 12). 12 common mistakes made when Using story points. Retrieved March 29, 2021, from https://medium.com/serious-scrum/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7
+* Sinha, D., Casel, N., Tranter, L., &amp; Tipnis, P. (2018, August 31). What are the top 5 Scrum Estimation Techniques? Retrieved March 29, 2021, from https://www.knowledgehut.com/blog/agile/top-5-scrum-estimation-techniques-find-your-best-fit
+* 15, J. (2020, February 20). Story point estimation - getting started with affinity estimation. Retrieved March 30, 2021, from https://agilevelocity.com/blogget-started-story-points-via-affinity-estimation-cheat-sheet/
