@@ -11,9 +11,13 @@ The main method of point estimation is Planning Poker. Sessions can take 1-2 hou
 ### Sacrificing Quality for Predictability 
 Technical practices like test-driven development and refactoring are often the first things to be dropped when someone is trying to maker their estimate. The emphasis here being placed on a team completing all their work by the time estimate but often doing so by sacrificing quality.
 
-### View other Topics
-* [Methods of Task Estimation](/TaskEstimation/TaskEstimation.md)
+- ### View other topics: 
 * [Home Page](../README.md)
+* [Task Estimation Home](/TaskEstimation/TaskEstimation.md)
+* [Code Reviews](../CodeReview/code-review-content.md)
+* [Coding Standards](../CodingStandards/coding-standards-content.md)
+
+
 
 ## References
 * [Tranter, L. (2018, May 15). Problems with story points](https://www.extremeuncertainty.com/problems-with-story-point-estimates/)

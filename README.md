@@ -1,6 +1,6 @@
 # Software Quality  Handbook
 
-- [Project Plan](ProjectPlan/projectplan.md)
+- [Project Plan](ProjectPlan/ProjectPlan.md)
 
 
 ## What is Software Quality?
