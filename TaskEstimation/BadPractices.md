@@ -16,6 +16,5 @@ Technical practices like test-driven development and refactoring are often the f
 * [Home Page](../README.md)
 
 ## References
-Tranter, L. (2018, May 15). Problems with story points. Retrieved March 30, 2021, from https://www.extremeuncertainty.com/problems-with-story-point-estimates/
-
+* [Tranter, L. (2018, May 15). Problems with story points](https://www.extremeuncertainty.com/problems-with-story-point-estimates/)
 

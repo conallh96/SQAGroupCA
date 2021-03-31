@@ -13,7 +13,5 @@ When giving negative feedback, it is important to present it in a fair and contr
 * [Home Page](../README.md)
 
 ## References
-
-* Schults, C. (2019, January 08). The 4 code review practices that make devs quit - submain blog. Retrieved March 31, 2021, from https://blog.submain.com/code-review-practices/
-
-* Sankarram, S. (2018, April 29). Unlearning toxic behaviors in a code review culture. Retrieved March 31, 2021, from https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c
+* [Schults, C. (2019, January 08). The 4 code review practices that make devs quit](https://blog.submain.com/code-review-practices/)
+* [Sankarram, S. (2018, April 29). Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)

@@ -45,11 +45,13 @@ Considered the **best method** for reviewing code as it uses software integrated
 
 
 ## References ## 
-* Gutha, R. (2015, August 31). Code Review checklist, to perform effective code reviews. Retrieved March 29, 2021, from https://www.evoketechnologies.com/blog/code-review-checklist-perform-effective-code-reviews/
+* [Gutha, R. (2015, August 31). Code Review checklist, to perform effective code reviews](https://www.evoketechnologies.com/blog/code-review-checklist-perform-effective-code-reviews/)
 
-* Avery, L. (2019, November 11). What belongs in an effective code review checklist. Retrieved March 30, 2021, from https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/
+* [Avery, L. (2019, November 11). What belongs in an effective code review checklist](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
 
-* Smartbear. (2020, September 15). Common code review approaches. Retrieved March 30, 2021, from https://smartbear.com/learn/code-review/what-is-code-review/
+* [Smartbear. (2020, September 15). Common code review approaches](https://smartbear.com/learn/code-review/what-is-code-review/)
+
+
 
 
 
