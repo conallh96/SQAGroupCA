@@ -46,6 +46,14 @@ A consistent source code makes it easy to locate and correct bugs in the softwar
 
 ![Coding Standards](https://miro.medium.com/max/1258/1*v6NLWMqZsOCpuFbbA919Hg.jpeg)
 
+### View other topics: 
+### View other topics: 
+* [Home Page](../README.md)
+* [Coding Standards Best Practices](CodingStandardsBestPractice.md)
+* [Coding Standards Best Practices](CodingStandardsBadPractice.md)
+* [Code Reviews](../CodeReview/code-review-content.md)
+* [Task Estimations](../TaskEstimation/TaskEstimation.md)
+
 ## References
 - [Mansoor, U., 2016. Effective Coding Standards](https://codeahoy.com/2016/05/22/effective-coding-standards)
 - [Webguruz. 2017. The Significance of Coding Standards](https://webguruz.in/the-significance-of-coding-standards-2)

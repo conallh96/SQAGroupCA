@@ -25,6 +25,13 @@ Each variable should have a descriptive and meaningful name indicating the reaso
 - ###	Length of Functions 
 As functions get longer they are more difficult to understand. Functions should be small enough to carry out small work and lengthy functions should be broken into small ones for completing small tasks.
 
+### View other topics: 
+* [Home Page](../README.md)
+* [Coding Standards Home](coding-standards-content.md)
+* [Coding Standards bad Practices](CodingStandardsBadPractice.md)
+* [Code Reviews](../CodeReview/code-review-content.md)
+* [Task Estimations](../TaskEstimation/TaskEstimation.md)
+
 ## References
 - [Mansoor, U., 2016. Effective Coding Standards](https://codeahoy.com/2016/05/22/effective-coding-standards)
 - [Webguruz. 2017. The Significance of Coding Standards](https://webguruz.in/the-significance-of-coding-standards-2)
