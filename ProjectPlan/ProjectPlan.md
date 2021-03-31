@@ -7,9 +7,10 @@
 - Ronan Macken 
 
 ## Topics:
-- Task Estimation (Conall Hunt)
-- Coding Standards (Chloe Dunne)
-- Code Reviews (Paul Langtry)
+- Introduction (Ronan Macken)
+- Task Estimation (Conall Hunt, Paul Langtry)
+- Coding Standards (Chloe Dunne, Ronan Macken)
+- Code Reviews (Paul Langtry, Conall Hunt)
 - Plan & Style Guide (Ronan Macken)
 
 ## Project Steps:
