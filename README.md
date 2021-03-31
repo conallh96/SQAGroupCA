@@ -21,7 +21,7 @@ This will be covered under the topics listed below.
 ## Topics Covered:
 - [Task Estimation in Scrum](TaskEstimation/TaskEstimation.md)
 - [Coding Standards](CodingStandards/coding-standards-content.md)
-- [Code Reviews](CodeReviews/code-review-content.md)
+- [Code Reviews](./CodeReview/code-review-content.md)
 
 
 ## References:
