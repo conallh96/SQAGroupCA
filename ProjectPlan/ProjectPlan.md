@@ -34,4 +34,20 @@
 - Each topic should be contained in its own folder.
 - Images should be placed in the images folder.
 
+## Retrospective 
+
+- When we originally set up the project repository on GitHub, we all forked from a main repository created by Ronan and proceeded to clone our own repositories onto our systems.  
+Upon further consideration, we realized we should all have cloned from the same repository,  
+Conall then set up a new repository and the other members cloned.  
+This was a minor set back in the early stages but luckily we discovered our errors early on.  
+This mistake was mainly down to our lack of experience on group repositories but provided us with a good lesson in initializing repositories that multiple members will be working on.
+
+- As a group we could have improved on the commenting and reviews on pull requests through github.  
+We only learned late on how to could approve requests instead of just leaving comments.
+
+
+- Overall we worked well as a team and helped each other along when any of us were unsure of the next steps. We planned regular calls to discuss any issues and organize the work and kept to our schedule.
+
+
+
 * [Home Page](../README.MD)
