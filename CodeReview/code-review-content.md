@@ -39,7 +39,7 @@ Considered the **best method** for reviewing code as it uses software integrated
 
 ### View Other Topics ###
 * [Bad Practices in Code Review](/CodeReview/code-review-bad-practices.md)
-* [Home Page](../README.md))
+* [Home Page](../README.md)
 
 
 
