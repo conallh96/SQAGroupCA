@@ -37,12 +37,21 @@ This method involves a colleague sitting down at your workstation and **reviewin
 ### Tool Assisted ###
 Considered the **best method** for reviewing code as it uses software integrated into IDE and SCM development frameworks. This way everything can be tracked automatically, less resources required and no meetings needed.
 
+### View Other Topics ###
+* [Bad Practices in Code Review](/CodeReview/code-review-bad-practices.md)
+* [Home Page](../README.md)
+
+
+
+
 ## References ## 
 * Gutha, R. (2015, August 31). Code Review checklist, to perform effective code reviews. Retrieved March 29, 2021, from https://www.evoketechnologies.com/blog/code-review-checklist-perform-effective-code-reviews/
 
 * Avery, L. (2019, November 11). What belongs in an effective code review checklist. Retrieved March 30, 2021, from https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/
 
 * Smartbear. (2020, September 15). Common code review approaches. Retrieved March 30, 2021, from https://smartbear.com/learn/code-review/what-is-code-review/
+
+
 
 
 
