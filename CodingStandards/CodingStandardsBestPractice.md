@@ -26,8 +26,8 @@ Each variable should have a descriptive and meaningful name indicating the reaso
 As functions get longer they are more difficult to understand. Functions should be small enough to carry out small work and lengthy functions should be broken into small ones for completing small tasks.
 
 ### View other topics: 
-* [Code Reviews](../../CodeReview/code-review-content.md)
-* [Task Estimations](../../TaskEstimation/TasTaskEstimation.md)
+* [Code Reviews](../CodeReview/code-review-content.md)
+* [Task Estimations](../TaskEstimation/TasTaskEstimation.md)
 
 ## References
 - [Mansoor, U., 2016. Effective Coding Standards](https://codeahoy.com/2016/05/22/effective-coding-standards)
