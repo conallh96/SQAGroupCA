@@ -37,6 +37,10 @@ This method involves a colleague sitting down at your workstation and **reviewin
 ### Tool Assisted ###
 Considered the **best method** for reviewing code as it uses software integrated into IDE and SCM development frameworks. This way everything can be tracked automatically, less resources required and no meetings needed.
 
+### View Other Topics ###
+* [Bad Practices in Code Review](/CodeReview/code-review-bad-practices.md)
+
+
 
 
 ## References ## 
