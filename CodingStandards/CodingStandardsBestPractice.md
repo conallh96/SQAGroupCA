@@ -27,7 +27,7 @@ As functions get longer they are more difficult to understand. Functions should 
 
 ### View other topics: 
 * [Code Reviews](../CodeReview/code-review-content.md)
-* [Task Estimations](../TaskEstimation/TasTaskEstimation.md)
+* [Task Estimations](../TaskEstimation/TaskEstimation.md)
 
 ## References
 - [Mansoor, U., 2016. Effective Coding Standards](https://codeahoy.com/2016/05/22/effective-coding-standards)
