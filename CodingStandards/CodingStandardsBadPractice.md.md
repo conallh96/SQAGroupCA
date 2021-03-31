@@ -15,6 +15,10 @@ This becomes an issue when the length time to implement a feature has been under
 When coming up time estimates it is essential both consult more experienced developers on the project and to have regular code reviews to ensure the schedule is maintained or updated as needed.  
 You can read more about Code Reviews [here](../CodeReview/).
 
+### View other topics: 
+* [Code Reviews](CodeReview/code-review-content.md)
+* [Task Estimations](TaskEstimation/TasTaskEstimation.md)
+
 
 ## References
 - [Spaghetti Code](https://www.bmc.com/blogs/spaghetti-code/#:~:text=Spaghetti%20code%20is%20a%20pejorative,your%20code%20to%20be%20less).
